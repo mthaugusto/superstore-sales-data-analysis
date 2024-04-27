@@ -47,7 +47,6 @@ We’re interested in understanding which factors contribute to high sales in th
 
 •	Hypothesis 5: The Company’s profit is more on weekdays than on weekends.
 """
-
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
